@@ -2,7 +2,9 @@
 
 <img src="image/pm.png" alt="praktisi mengajar" style="height: 100px"> <img src="image/ubl.jpg" alt="praktisi mengajar" style="height: 100px">
 
+Gunakan tombol berikut untuk menggunakan environment binder pada repo ini
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ilhamfadhil14/praktisimengajarnlp/HEAD)
 
 ## Tujuan
 
