@@ -1,10 +1,6 @@
 beautifulsoup4==4.11.1
 feedparser==6.0.10
-ipykernel==6.9.1
 joblib==1.1.0
-jupyter
-jupyter_client==7.2.2
-jupyter_core==4.10.0
 matplotlib-inline==0.1.2
 nltk==3.7
 numpy==1.21.5
@@ -18,3 +14,4 @@ Scrapy
 tweepy==1.7.1
 sastrawi
 tweet-preprocessor
+scikit-learn

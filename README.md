@@ -11,4 +11,3 @@ Gunakan tombol berikut untuk menggunakan environment binder pada repo ini
 Pengenalan teknologi pengolahan bahasa  dari konsep hingga praktek sederhana menggunakan bahasa pemrograman python. Diharapkan keluaran dari kelas ini adalah awareness dari berbagai macam metodologi untuk melakukan pengolahan bahasa, dan mendapatkan bekal pengetahuan dari industri bagaimana bahasa digunakan di dalam perusahaan.
 
 ## Materi
-
