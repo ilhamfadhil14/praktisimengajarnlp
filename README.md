@@ -38,7 +38,7 @@ Download repository ini ke dalam komputer pribadi, pindah ke dalam folder yang d
 pip install -r requirements.txt
 ```
 
-Perintah ini digunakan untuk melakukan instalasi pada package yand digunakan di dalam pelajaran. 
+Perintah ini digunakan untuk melakukan instalasi pada package yand digunakan di dalam pelajaran.
 
 ## Referensi
 
