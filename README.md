@@ -49,4 +49,4 @@ Perintah ini digunakan untuk melakukan instalasi pada package yand digunakan di 
 
 ### Materi
 
-- Majumder, B., Gupta, A., Vajjala, S., Surana, H. (2020). Practical Natural Language Processing: A Comprehensive Guide to Building Real-World NLP Systems. Taiwan: O'Reilly Media.
+- Majumder, B., Gupta, A., Vajjala, S., Surana, H. (2020). Practical Natural Language Processing: A Comprehensive Guide to Building Real-World NLP Systems. Taiwan: O'Reilly Media. 
