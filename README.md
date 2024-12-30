@@ -1,6 +1,6 @@
 # Praktisi Mengajar - Introduction to Linguistics
 
-<img src="image/pm.png" alt="praktisi mengajar" style="height: 100px"> <img src="image/ubl.jpg" alt="praktisi mengajar" style="height: 100px">
+<img src="image/pm1.png" alt="praktisi mengajar" style="height: 100px"> <img src="image/ubl1.jpg" alt="praktisi mengajar" style="height: 100px">
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ilhamfadhil14/praktisimengajarnlp/HEAD)
 
